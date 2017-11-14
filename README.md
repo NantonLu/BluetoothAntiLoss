@@ -1,1 +1,2 @@
 # NantonLu-BluetoothAntiLoss
+基于CoreBluetooth的蓝牙防丢demo，2个工程，一个模拟Central，一个模拟Peripheral，Peripheral离开超过一定距离，Central可收到通知。
